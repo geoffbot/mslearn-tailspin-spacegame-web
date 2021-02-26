@@ -1,3 +1,4 @@
+[![Build Status](https://glsource.visualstudio.com/spacegame-web-pipeline/_apis/build/status/geoffbot.mslearn-tailspin-spacegame-web?branchName=master)](https://glsource.visualstudio.com/spacegame-web-pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
